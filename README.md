@@ -11,7 +11,7 @@ I'm committed to staying abreast of the evolving cybersecurity landscape and fin
 
 <h3 align="left">Connect with me:<br>
 Email: ihasib199@gmail.com <br>
-Phone Num: +8801773743025</h3>
+PhoneNum: +8801773743025</h3>
 <p align="left">
 </p>
 
