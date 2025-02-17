@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Hasib Islam</h1>
+<h1 align="center">Hi 👋, I'm Md.Hasib Islam</h1>
 <h3 align="center">A passionate Bug Bounter from Bangladesh.</h3>
 <img align="right" alt="coding"width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 - 🔭 I’m currently working on **Bug Bounty**
 
-- 👯 I’m looking to collaborate on **Bugs**
+- 👯 
+I'm Md. Hasib Islam, a computer science and engineering student with a passion for cybersecurity. 
+My certifications in ethical hacking, CISSP, and cybersecurity enable me to apply theory to practical scenarios like code cracking and ethical hacking.
+I'm committed to staying abreast of the evolving cybersecurity landscape and finding real-world solutions.
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:<br>
+Email: ihasib199@gmail.com <br>
+Phone Num: +8801773743025</h3>
 <p align="left">
 </p>
 
