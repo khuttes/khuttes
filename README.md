@@ -55,20 +55,17 @@
 ## 🏆 GitHub Trophies (Working)
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=khuttes&theme=matrix&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15)" />
+  <img src="https://camo.githubusercontent.com/7e12883909cdaabcecbe4bf78edfc02fc1cd0aeb261f19ab6a0648af28f3504d/68747470733a2f2f6d6f6e746173696d2d6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170703f757365726e616d653d6d6f6e746173696d267468656d653d7261646963616c266e6f2d62673d74727565266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d372672616e6b3d5353532c53532c532c4141412c41412c41" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats (Working)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khuttes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuttes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuttes&theme=tokyonight&hide_border=true" />
+  <img src="https://camo.githubusercontent.com/1e15b806507f6abd7ae8fe6ea671357ce115cfd10dcb30d644bb3ea2f3bd358a/68747470733a2f2f6d6f6e746173696d2d6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6d6f6e746173696d2662675f636f6c6f723d30643131313726636f6c6f723d303062386235266c696e653d65623030386226706f696e743d46464646464626617265613d7472756526686964655f626f726465723d7472756526686964655f7469746c653d74727565" />
 </p>
 
 ---
