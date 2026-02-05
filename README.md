@@ -1,32 +1,138 @@
-<h1 align="center">Hi 👋, I'm Md Hasib Islam</h1>
-<h3 align="center">A passionate Bug Bounter from Bangladesh.</h3>
+<!-- =======================
+     PREMIUM PROFILE README
+     Author: Md Hasib Islam
+     Username: khuttes
+======================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khuttes&label=Profile%20views&color=0e75b6&style=flat" alt="khuttes" /> </p>
+<h1 align="center">
+  Hi 👋, I'm Md Hasib Islam
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khuttes" alt="khuttes" /></a> </p>
+<h3 align="center">
+  Bug Bounty Hunter • Penetration Tester • Cloud Security Learner
+</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Penetration Tester**
-
-- 🌱 I’m currently learning **Cloud Security Engineer**
-
-- 👯 I’m looking to collaborate on **Security Analyst/SOC Analyst**
-
-- 🤝 I’m looking for help with **CyberSecurity Consultant**
-
-- 💬 Ask me about **Bug Bounty**
-
-- 📫 How to reach me **ihasib199@gmail.com**
-
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Bug+Bounty+Hunter+from+Bangladesh;Web+Pentesting+%7C+Recon+%7C+OSINT;Learning+Cloud+Security+%7C+SOC;Building+Skills+Every+Day+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:ihasib199@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ihasib199%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/khuttes">
+    <img src="https://img.shields.io/badge/GitHub-khuttes-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-0ea5e9?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khuttes&show_icons=true&locale=en&layout=compact" alt="khuttes" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khuttes&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="khuttes" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khuttes&show_icons=true&locale=en" alt="khuttes" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khuttes&" alt="khuttes" /></p>
+## 👨‍💻 About Me
+
+- 🔭 Currently working on: **Penetration Testing (Web + Network)**
+- 🌱 Currently learning: **Cloud Security Engineer Path**
+- 👯 Looking to collaborate on: **SOC / Security Analyst Projects**
+- 🤝 Open for: **Cybersecurity Consultant & Bug Bounty Teamwork**
+- 💬 Ask me about: **Bug Bounty, Recon, Web Pentesting**
+- 📫 Contact: **ihasib199@gmail.com**
+- 🌍 Country: **Bangladesh**
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khuttes&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## ⚔️ Cybersecurity Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Pentesting-111827?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bug%20Bounty-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recon-0f172a?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSINT-1e293b?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Security-2563eb?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+
+### 💻 Programming / Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### 🛠 Tools / DevOps / OS
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-0D6EFD?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Featured Work (Add your best repos here)
+
+> Replace repo links with your real projects.
+
+- 🔥 **Bug Bounty Recon Automation** — https://github.com/khuttes/
+- 🛡️ **Web Pentesting Notes & Cheatsheets** — https://github.com/khuttes/
+- ⚙️ **Linux + Security Tools Collection** — https://github.com/khuttes/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khuttes&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuttes&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuttes&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Become a professional **Web Application Pentester**
+- ✅ Build strong **Bug Bounty automation scripts**
+- ✅ Master **Cloud Security fundamentals (AWS / Azure)**
+- ✅ Publish **writeups + security research**
+- ✅ Get hired as a **SOC Analyst / Security Engineer**
+
+---
+
+## 🧠 Certifications (Optional)
+
+> Add only the ones you have (don’t fake certs).
+
+- 🎓 TryHackMe / HTB Learning Path (in progress)
+- 🎓 Security+ (planned)
+- 🎓 eJPT / PNPT (planned)
+
+---
+
+## ✨ Quote
+
+<p align="center">
+  <i>"Hack to learn. Secure to protect."</i>
+</p>
