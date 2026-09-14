@@ -1,5 +1,4 @@
-🛡️ <h1>hasib.live — Cybersecurity Portfolio & Security Engineering Website#</h1>
-A professional, interactive cybersecurity portfolio website for Md. Hasib Islam, focused on web and API security, network attack-surface assessment, security automation, defensive AI research, and client-facing security consulting.
+🛡️ A professional, interactive cybersecurity portfolio website for Md. Hasib Islam, focused on web and API security, network attack-surface assessment, security automation, defensive AI research, and client-facing security consulting.
 
 ---
 
